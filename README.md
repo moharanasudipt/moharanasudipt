@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Sudipta Moharana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Backend Developer From India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="img" align= "right" height="250" width="400"></img>
-- 🔭 I’m currently working on an E-commerce Website *Fenton Esports*
+- 🔭 I’m currently working on an Examination Management System
 
 - 📫 How to reach me *moharanasudiptkuamr@gmail.com*
 
