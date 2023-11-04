@@ -1,4 +1,4 @@
-![logo]([https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FManishaSwain8&psig=AOvVaw3wIylBbbPO76X01om93TZR&ust=1699160945441000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDIrfbJqYIDFQAAAAAdAAAAABAQ))
+![logo](https://camo.githubusercontent.com/2b25f1b3b2debb59acd4cc716bb0f6a0c8a16c2923e00f6e2c117e0f18b3319a/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30322f39362f36312f39342f3336305f465f3239363631393437315f694547776554793956736f6b487462434a73566d79657a306432726f636d6d412e6a7067)
 <h1 align="center">Hi 👋, I'm Sudipta Kumar Moharana</h1>
 <h3 align="center">A Passionate JAVA developer From India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="img" align= "right" height="250" width="400"></img>
